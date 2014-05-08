@@ -441,6 +441,100 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "neulussheim-bb-ev1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.523220717906952,
+          49.29358710487166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.523244857788086,
+            49.29358885416343
+          ],
+          [
+            8.571122288703918,
+            49.29413987798275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "altlussheim-bb-rk1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.498946726322174,
+          49.30283124512205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.498957455158234,
+            49.30284173890331
+          ],
+          [
+            8.523218035697937,
+            49.29359060345517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.498960137367249,
+            49.302834743049374
+          ],
+          [
+            8.540207147598267,
+            49.316327898427986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.523220717906952,
+            49.29359060345517
+          ],
+          [
+            8.548208177089691,
+            49.318565907939394
+          ]
+        ]
+      }
     }
   ]
 }
