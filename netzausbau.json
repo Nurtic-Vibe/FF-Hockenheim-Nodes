@@ -535,6 +535,53 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ketsch-bb-rk1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.524041473865509,
+          49.367889923132516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.524044156074524,
+            49.36789516309279
+          ],
+          [
+            8.543704748153687,
+            49.32554155064021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.524044156074524,
+            49.36789254311271
+          ],
+          [
+            8.498954772949219,
+            49.302834743049374
+          ]
+        ]
+      }
     }
   ]
 }
