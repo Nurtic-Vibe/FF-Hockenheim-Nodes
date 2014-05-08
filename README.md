@@ -8,4 +8,5 @@ Zum editieren im Browser kann man z.B. http://geojson.io/ nutzen.
 ToDo:
 
 marker-color
+
 line-color
