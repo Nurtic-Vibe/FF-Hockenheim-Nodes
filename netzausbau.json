@@ -392,6 +392,55 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "reilingen-bb-rk1",
+        "owner": "Nurtic-Vibe",
+        "note": "geplant in Reilingen, Peering zu \"hockenheim-bb-rk1\" & \"hockenheim-bb-ev1\" & \"hockenheim-bb-motodrom\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.571119606494904,
+          49.29413463016592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.571122288703918,
+            49.29413987798275
+          ],
+          [
+            8.548208177089691,
+            49.31856241112885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.551072776317596,
+            49.318293155971986
+          ],
+          [
+            8.571119606494904,
+            49.294143376526996
+          ]
+        ]
+      }
     }
   ]
 }
