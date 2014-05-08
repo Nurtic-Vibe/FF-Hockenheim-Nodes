@@ -395,23 +395,6 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.571122288703918,
-            49.29413987798275
-          ],
-          [
-            8.548208177089691,
-            49.31856241112885
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
         "name": "neulussheim-bb-ev1"
       },
