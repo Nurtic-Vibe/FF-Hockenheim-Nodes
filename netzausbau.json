@@ -7,6 +7,7 @@
         "name": "hockenheim1",
         "owner": "Nurtic-Vibe",
         "note": "bereits Aktiv"
+        "marker-color": "00FF00"
       },
       "geometry": {
         "type": "Point",
