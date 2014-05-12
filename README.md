@@ -9,8 +9,8 @@ Legende
 =============
 
 * Knoten grün = Aktuell Online
-* Knoten gelb = geplant Genehmigung eingeholt
-* Knoten rot = geplant Genehmigung ausstehend
+* Knoten gelb = geplant
+* Knoten rot = abgelehnt
 * Verbindung grün = aktuell verbunden
 * Verbindung gelb = geplante Richtfunk Verbindung
 * Verbindung rot = geplante Verbindung, zurzeit offline
