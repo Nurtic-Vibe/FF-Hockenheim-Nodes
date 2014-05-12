@@ -23,7 +23,7 @@
         "name": "hockenheim-bb-ber1",
         "owner": "Nurtic-Vibe",
         "note": "Router vorhanden und konfiguriert, Genehmigung ausstehend",
-		"marker-color": "FFFF00"
+	"marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +37,7 @@
       "type": "Feature",
       "properties": {
         "name": "hockenheim1 <-> hockenheim-bb-ber1",
-		"line-color": "FFFF00"
+	"line-color": "FFFF00"
       },
       "geometry": {
         "type": "LineString",
@@ -59,7 +59,7 @@
         "name": "hockenheim-bb-rk1",
         "owner": "Nurtic-Vibe",
         "note": "geplanter Knoten. Richtverbindung zu hockenheim-bb-ev1, weitere nach notwendigkeit, 4 Panel für Innenstadt (N NW SW S)",
-		"marker-color": "FFFF00"
+	"marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
