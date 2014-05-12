@@ -13,7 +13,8 @@ Legende
 * Knoten rot = abgelehnt
 * Verbindung grün = aktuell verbunden
 * Verbindung orange = geplante Richtfunk/Backbone Verbindung
-* Verbindung rot = geplante Verbindung, zurzeit offline
+* Verbindung gelb = geplante Verbindung
+* Verbindung rot = abgelehnte/nicht mögliche Verbindung
 
 
 ToDo:
