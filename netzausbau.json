@@ -33,7 +33,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "hockenheim1 <-> hockenheim2"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -68,7 +70,7 @@
       "properties": {
         "name": "hockenheim-bb-ev1",
         "owner": "Nurtic-Vibe",
-        "note": "geplanter Knoten. Richtverbindung nach notwendigkeit. 4 Panels für Innenstadt"
+        "note": "geplanter Knoten. Richtverbindung nach notwendigkeit. 4 Panels für Innenstadt (N NW SW S )"
       },
       "geometry": {
         "type": "Point",
@@ -80,7 +82,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "hockenheim-bb-rk1 <-> hockenheim-bb-ev1"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -97,7 +101,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "hockenheim-bb-rk1 <-> hockenheim2"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
