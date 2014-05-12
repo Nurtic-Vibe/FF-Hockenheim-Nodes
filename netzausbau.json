@@ -23,7 +23,7 @@
         "name": "hockenheim-bb-ber1",
         "owner": "Nurtic-Vibe",
         "note": "Router vorhanden und konfiguriert, Genehmigung ausstehend",
-	"marker-color": "FFFF00"
+        "marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +37,7 @@
       "type": "Feature",
       "properties": {
         "name": "hockenheim1 <-> hockenheim-bb-ber1",
-	"line-color": "FFFF00"
+        "line-color": "FFFF00"
       },
       "geometry": {
         "type": "LineString",
@@ -59,7 +59,7 @@
         "name": "hockenheim-bb-rk1",
         "owner": "Nurtic-Vibe",
         "note": "geplanter Knoten. Richtverbindung zu hockenheim-bb-ev1, weitere nach notwendigkeit, 4 Panel für Innenstadt (N NW SW S)",
-	"marker-color": "FFFF00"
+        "marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
         "name": "hockenheim-bb-ev1",
         "owner": "Nurtic-Vibe",
         "note": "geplanter Knoten. Richtverbindung zu hockenheim-bb-rk1, weitere nach notwendigkeit. 4 Panels für Innenstadt (N NO SO S)",
-	"marker-color": "FFFF00"
+        "marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "name": "hockenheim-bb-rk1 <-> hockenheim-bb-ev1",
-	"line-color": "FF8000"
+        "line-color": "FF8000"
       },
       "geometry": {
         "type": "LineString",
@@ -109,7 +109,7 @@
       "type": "Feature",
       "properties": {
         "name": "hockenheim-bb-rk1 <-> hockenheim-bb-ber1",
-	"line-color": "FF8000"
+        "line-color": "FF8000"
       },
       "geometry": {
         "type": "LineString",
@@ -131,7 +131,7 @@
         "name": "hockenheim-bb-wt1",
         "owner": "Nurtic-Vibe",
         "note": "geplanter Knoten. Richtverbindung zu \"hockenheim-bb-rk1\" & \"hockenheim-bb-ev1\", 8 Panels (N NO O SO S SW W NW)",
-	"marker-color": "FFFF00"
+        "marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
@@ -144,8 +144,8 @@
     {
       "type": "Feature",
       "properties": {
-	"name": "hockenheim-bb-wt1 <-> hockenheim-bb-rk1",
-	"line-color": "FF8000"
+        "name": "hockenheim-bb-wt1 <-> hockenheim-bb-rk1",
+        "line-color": "FF8000"
       },
       "geometry": {
         "type": "LineString",
@@ -164,8 +164,8 @@
     {
       "type": "Feature",
       "properties": {
-      	"name": "hockenheim-bb-wt1 <-> hockenheim-bb-ev1",
-      	"line-color": "FF8000"
+        "name": "hockenheim-bb-wt1 <-> hockenheim-bb-ev1",
+        "line-color": "FF8000"
       },
       "geometry": {
         "type": "LineString",
@@ -187,7 +187,7 @@
         "name": "hockenheim-bb-fw1",
         "owner": "Nurtic-Vibe",
         "note": "geplanter Knoten. Peering zu \"hockenheim-bb-rk1\" & \"hockenheim-bb-ev1\" & \"hockenheim-bb-motodrom\"",
-        "marker-color":	"FFFF00"
+        "marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
@@ -200,15 +200,15 @@
     {
       "type": "Feature",
       "properties": {
-      	"name": "hockenheim-bb-fw1 <-> hockenheim-bb-ev1",
-      	"line-color": "FF8000"
+        "name": "hockenheim-bb-fw1 <-> hockenheim-bb-ev1",
+        "line-color": "FF8000"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-          8.55534553527832,
-          49.32258008269003
+            8.55534553527832,
+            49.32258008269003
           ],
           [
             8.551067411899567,
@@ -220,15 +220,16 @@
     {
       "type": "Feature",
       "properties": {
-      	"name": "hockenheim-bb-fw1 <-> hockenheim-bb-rk1",
-      	"line-color": "FF8000"
+        "name": "hockenheim-bb-fw1 <-> hockenheim-bb-rk1",
+        "line-color": "FF8000",
+        "owner": ""
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-          8.55534553527832,
-          49.32258008269003
+            8.55534553527832,
+            49.32258008269003
           ],
           [
             8.548208177089691,
@@ -240,7 +241,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "hockenheim-bb-motodrom1"
+        "name": "hockenheim-bb-motodrom1",
+        "owner": "Nurtic-Vibe",
+        "note": "",
+        "marker-color": "FFFF00",
+        "line-color": ""
       },
       "geometry": {
         "type": "Point",
@@ -253,19 +258,19 @@
     {
       "type": "Feature",
       "properties": {
-      	"name": "hockenheim-bb-motodrom1 <-> hockenheim-bb-fw1",
-      	"line-color": "FF8000"
+        "name": "hockenheim-bb-motodrom1 <-> hockenheim-bb-fw1",
+        "line-color": "FF8000"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-          8.566739559173584,
-          49.32902026127453
+            8.566739559173584,
+            49.32902026127453
           ],
           [
-          8.55534553527832,
-          49.32258008269003
+            8.55534553527832,
+            49.32258008269003
           ]
         ]
       }
@@ -273,7 +278,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "hockenheim-bb-motodrom2"
+        "name": "hockenheim-bb-motodrom2",
+        "owner": "Nurtic-Vibe",
+        "marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
@@ -286,19 +293,20 @@
     {
       "type": "Feature",
       "properties": {
-      	"name": "hockenheim-bb-motodrom2 <-> hockenheim-bb-fw1",
-      	"line-color": "FF8000"
+        "name": "hockenheim-bb-motodrom2 <-> hockenheim-bb-fw1",
+        "line-color": "FF8000",
+        "owner": ""
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-          8.567254543304443,
-          49.32508702757861
+            8.567254543304443,
+            49.32508702757861
           ],
           [
-          8.55534553527832,
-          49.32258008269003
+            8.55534553527832,
+            49.32258008269003
           ]
         ]
       }
@@ -306,19 +314,19 @@
     {
       "type": "Feature",
       "properties": {
-      	"name": "hockenheim-bb-motodrom1 <-> hockenheim-bb-motodrom2",
-      	"line-color": "FF8000"
+        "name": "hockenheim-bb-motodrom1 <-> hockenheim-bb-motodrom2",
+        "line-color": "FF8000"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-          8.566739559173584,
-          49.32902026127453
+            8.566739559173584,
+            49.32902026127453
           ],
           [
-          8.567254543304443,
-          49.32508702757861
+            8.567254543304443,
+            49.32508702757861
           ]
         ]
       }
@@ -326,7 +334,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "hockenheim-motodrom1"
+        "name": "hockenheim-motodrom1",
+        "marker-color": "FFFF00",
+        "owner": "Nurtic-Vibe"
       },
       "geometry": {
         "type": "Point",
@@ -339,7 +349,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "hockenheim-motodrom2"
+        "name": "hockenheim-motodrom2",
+        "marker-color": "FFFF00",
+        "owner": "Nurtic-Vibe"
       },
       "geometry": {
         "type": "Point",
@@ -352,7 +364,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "hockenheim-motodrom-funk"
+        "name": "hockenheim-motodrom-funk",
+        "marker-color": "FFFF00",
+        "owner": "Nurtic-Vibe"
       },
       "geometry": {
         "type": "Point",
@@ -365,7 +379,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "neulussheim-bb-ev1"
+        "name": "neulussheim-bb-ev1",
+        "owner": "Nurtic-Vibe",
+        "marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
@@ -395,7 +411,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "altlussheim-bb-rk1"
+        "name": "altlussheim-bb-rk1",
+        "owner": "Nurtic-Vibe",
+        "marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
@@ -441,25 +459,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.523220717906952,
-            49.29359060345517
-          ],
-          [
-            8.548208177089691,
-            49.318565907939394
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
-        "name": "ketsch-bb-rk1"
+        "name": "ketsch-bb-rk1",
+        "owner": "Nurtic-Vibe",
+        "marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +474,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "owner": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -508,13 +513,401 @@
       "properties": {
         "name": "reilingen-bb-rk1",
         "owner": "Nurtic-Vibe",
-        "note": "geplant in Reilingen, Peering zu \"hockenheim-bb-rk1\" & \"hockenheim-bb-ev1\" & \"hockenheim-bb-motodrom\""
+        "note": "geplant in Reilingen, Peering zu \"hockenheim-bb-rk1\" & \"hockenheim-bb-ev1\" & \"hockenheim-bb-motodrom\"",
+        "marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           8.571119606494904,
           49.29413463016592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hockenheim-motodrom-innen",
+        "owner": "Nurtic-Vibe",
+        "note": "",
+        "marker-color": "FFFF00",
+        "line-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.569035530090332,
+          49.32857625862627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.566739559173584,
+            49.32902026127453
+          ],
+          [
+            8.569038212299347,
+            49.32857625862627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.566318452358246,
+            49.32779487416285
+          ],
+          [
+            8.569032847881317,
+            49.328574510576445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.566739559173584,
+            49.329018513240456
+          ],
+          [
+            8.566318452358246,
+            49.32779312608527
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.567254543304443,
+            49.3250852794049
+          ],
+          [
+            8.56632113456726,
+            49.327796622240356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.567265272140503,
+            49.32508702757861
+          ],
+          [
+            8.571253716945648,
+            49.326102706016925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "owner": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.569040894508362,
+            49.32857625862627
+          ],
+          [
+            8.571256399154663,
+            49.32610095787926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.566318452358246,
+            49.32779487416285
+          ],
+          [
+            8.571251034736633,
+            49.326102706016925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.569046258926392,
+            49.32857625862627
+          ],
+          [
+            8.574453592300415,
+            49.32998167060897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.571277856826782,
+            49.32610095787926
+          ],
+          [
+            8.574453592300415,
+            49.329995654606236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.566750288009644,
+            49.32901676520633
+          ],
+          [
+            8.574453592300415,
+            49.32998167060897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.567259907722473,
+            49.32508702757861
+          ],
+          [
+            8.569040894508362,
+            49.328579754725745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.571106195449829,
+            49.29413463016592
+          ],
+          [
+            8.551096916198729,
+            49.31832462742993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.523223400115967,
+            49.29357485982751
+          ],
+          [
+            8.540207147598267,
+            49.31631740751895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.567259907722473,
+            49.32508353123111
+          ],
+          [
+            8.571119606494904,
+            49.29413637943824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bruehl-bb-ev1",
+        "owner": "Eclipse",
+        "note": "",
+        "marker-color": "FFFF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.534939289093018,
+          49.39298816488468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.524044156074524,
+            49.36788817647896
+          ],
+          [
+            8.534944653511046,
+            49.39299165640794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oftersheim-bb-ev1",
+        "marker-color": "FFFF00",
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.581609725952148,
+          49.3690444475533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.524044156074524,
+            49.367891669786005
+          ],
+          [
+            8.581615090370178,
+            49.369040954328185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schwetzingen-bb-rk1",
+        "marker-color": "FFFF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.57184648513794,
+          49.385376054191354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.57185184955597,
+            49.38537954625564
+          ],
+          [
+            8.581609725952148,
+            49.36904794077818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.57185184955597,
+            49.38537954625564
+          ],
+          [
+            8.534950017929077,
+            49.39299165640794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.566744923591614,
+            49.32901676520633
+          ],
+          [
+            8.581615090370178,
+            49.3690444475533
+          ]
         ]
       }
     }
