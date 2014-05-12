@@ -186,7 +186,7 @@
       "properties": {
         "name": "hockenheim-bb-fw1",
         "owner": "Nurtic-Vibe",
-        "note": "geplanter Knoten. Peering zu \"hockenheim-bb-rk1\" & \"hockenheim-bb-ev1\" & \"hockenheim-bb-motodrom\""
+        "note": "geplanter Knoten. Peering zu \"hockenheim-bb-rk1\" & \"hockenheim-bb-ev1\" & \"hockenheim-bb-motodrom\"",
         "marker-color":	"FFFF00"
       },
       "geometry": {
