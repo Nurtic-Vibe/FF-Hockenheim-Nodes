@@ -8,17 +8,17 @@ Zum editieren im Browser kann man z.B. http://geojson.io/ nutzen.
 Legende
 =============
 
-*Knoten grün = Aktuell Online
-*Knoten gelb = geplant, Genehmigung eingeholt
-*Knoten rot = geplant, Genehmigung ausstehend
+* Knoten grün = Aktuell Online
+* Knoten gelb = geplant, Genehmigung eingeholt
+* Knoten rot = geplant, Genehmigung ausstehend
 
-*Verbindung grün = aktuell verbunden
-*Verbindung gelb = geplante Richtfunk Verbindung
-*Verbindung rot = geplante Verbindung, zurzeit offline
+* Verbindung grün = aktuell verbunden
+* Verbindung gelb = geplante Richtfunk Verbindung
+* Verbindung rot = geplante Verbindung, zurzeit offline
 
 
 ToDo:
 =============
 
-*marker-color
-*line-color
+* marker-color
+* line-color
