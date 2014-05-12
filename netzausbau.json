@@ -20,9 +20,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "hockenheim2",
+        "name": "hockenheim-bb-ber1",
         "owner": "Nurtic-Vibe",
-        "note": "Router vorhanden und konfiguriert, Genehmigung ausstehend"
+        "note": "Router vorhanden und konfiguriert, Genehmigung ausstehend",
+		"marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
@@ -35,7 +36,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "hockenheim1 <-> hockenheim2",
+        "name": "hockenheim1 <-> hockenheim-bb-ber1",
 		"line-color": "FFFF00"
       },
       "geometry": {
@@ -57,7 +58,8 @@
       "properties": {
         "name": "hockenheim-bb-rk1",
         "owner": "Nurtic-Vibe",
-        "note": "geplanter Knoten. Richtverbindungen nach notwendigkeit, 4 Panel für Innenstadt"
+        "note": "geplanter Knoten. Richtverbindung zu hockenheim-bb-ev1, weitere nach notwendigkeit, 4 Panel für Innenstadt (N NW SW S)",
+		"marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
@@ -72,7 +74,8 @@
       "properties": {
         "name": "hockenheim-bb-ev1",
         "owner": "Nurtic-Vibe",
-        "note": "geplanter Knoten. Richtverbindung nach notwendigkeit. 4 Panels für Innenstadt (N NW SW S )"
+        "note": "geplanter Knoten. Richtverbindung zu hockenheim-bb-rk1, weitere nach notwendigkeit. 4 Panels für Innenstadt (N NO SO S)",
+		"marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
@@ -85,7 +88,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "hockenheim-bb-rk1 <-> hockenheim-bb-ev1"
+        "name": "hockenheim-bb-rk1 <-> hockenheim-bb-ev1",
+		"line-color": "FF8000"
       },
       "geometry": {
         "type": "LineString",
@@ -104,7 +108,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "hockenheim-bb-rk1 <-> hockenheim2"
+        "name": "hockenheim-bb-rk1 <-> hockenheim-bb-ber1",
+		"line-color": "FF8000"
       },
       "geometry": {
         "type": "LineString",
@@ -125,7 +130,8 @@
       "properties": {
         "name": "hockenheim-bb-wt1",
         "owner": "Nurtic-Vibe",
-        "note": "geplanter Knoten. Richtverbindung zu \"hockenheim-bb-rk1\" & \"hockenheim-bb-ev1\", 8 Panels (N NO O SO S SW W NW)"
+        "note": "geplanter Knoten. Richtverbindung zu \"hockenheim-bb-rk1\" & \"hockenheim-bb-ev1\", 8 Panels (N NO O SO S SW W NW)",
+		"marker-color": "FFFF00"
       },
       "geometry": {
         "type": "Point",
@@ -137,7 +143,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+		"name": "hockenheim-bb-wt1 <-> hockenheim-bb-rk1",
+		"line-color": "FF8000"
+	  },
       "geometry": {
         "type": "LineString",
         "coordinates": [
