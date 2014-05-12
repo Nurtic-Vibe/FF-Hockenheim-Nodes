@@ -35,7 +35,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "hockenheim1 <-> hockenheim2"
+        "name": "hockenheim1 <-> hockenheim2",
+		"line-color": "FFFF00"
       },
       "geometry": {
         "type": "LineString",
