@@ -910,6 +910,182 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hockenheim-bb-ziegelei",
+        "marker-color": "FFFF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.477765321731566,
+          49.34186313986446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hockenheim-kw1",
+        "marker-color": "FFFF00",
+        "owner": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.527262806892395,
+          49.32995020660066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.527273535728455,
+            49.32995020660066
+          ],
+          [
+            8.477754592895508,
+            49.341866635020324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hockenheim-luxhof1",
+        "owner": "",
+        "marker-color": "FFFF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.457359075546265,
+          49.319044968635886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.477754592895508,
+            49.341866635020324
+          ],
+          [
+            8.457364439964294,
+            49.31904846541216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.498970866203308,
+            49.30283824097647
+          ],
+          [
+            8.457359075546265,
+            49.319041471859364
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "speyer-dom1",
+        "marker-color": "FFFF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.442467451095581,
+          49.317212623717644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.44247281551361,
+            49.31720562990417
+          ],
+          [
+            8.457359075546265,
+            49.31904846541216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "speyer-kw1",
+        "marker-color": "FFFF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.457407355308533,
+          49.33673547890472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.45741808414459,
+            49.33673897442477
+          ],
+          [
+            8.477743864059448,
+            49.341866635020324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.457412719726562,
+            49.33673547890472
+          ],
+          [
+            8.442462086677551,
+            49.31720912681102
+          ]
+        ]
+      }
     }
   ]
 }
