@@ -1,0 +1,30 @@
+{
+  "name": "Freifunk Hockenheim",
+  "url": "http://freifunk-rhein-neckar.de",
+  "location": {
+    "city": "Hockenheim",
+    "country": "Germany",
+    "lat": 49.31978861023296,
+    "lon": 8.550453186035156
+  },
+  "contact": {
+    "email": "nurtic-vibe@online.de",
+    "irc": "irc://irc.hackint.eu/freifunk-rhein-neckar",
+    "ml": "list@freifunk-rhein-neckar.de",
+    "twitter": "@FFRheinNeckar"
+  },
+  "metacommunity": "Freifunk Rhein-Neckar",
+  "state": {
+    "nodes": 3,
+    "lastchange": "2014-05-24T18:52:14.437Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "http://map.freifunk-rhein-neckar.de/"
+    }
+  ],
+  "techDetails": {
+    "routing": ""
+  },
+  "api": "0.3.0"
+}
