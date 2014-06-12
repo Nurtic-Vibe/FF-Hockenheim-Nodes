@@ -1207,6 +1207,62 @@
           ]
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "holzbein1",
+        "marker-color": "00FF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684831857681274,
+          49.38382089685693
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "name": "Heidelberg-Handschuhsheim1",
+        "marker-color": "00FF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        8.680647611618042,
+        49.43121011991763
+        ]
+      }
+    },
+            {
+      "type": "Feature",
+      "properties": {
+        "name": "Mannheim-Neckarau1",
+        "marker-color": "00FF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+8.475978970527649,
+49.456980970103444
+        ]
+      }
+    },
+               {
+      "type": "Feature",
+      "properties": {
+        "name": "Ludwigshafen1",
+        "marker-color": "00FF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+8.442687392234802,
+49.47932504390163
+        ]
+      }
+    },
   ]
 }
