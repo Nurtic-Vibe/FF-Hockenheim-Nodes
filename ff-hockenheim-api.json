@@ -3,7 +3,7 @@
   "url": "http://freifunk-rhein-neckar.de",
   "location": {
     "city": "Hockenheim",
-    "country": "Germany",
+    "country": "DE",
     "lat": 49.31978861023296,
     "lon": 8.550453186035156
   },
@@ -16,15 +16,30 @@
   "metacommunity": "Freifunk Rhein-Neckar",
   "state": {
     "nodes": 3,
-    "lastchange": "2014-05-24T18:52:14.437Z"
+    "lastchange": "2014-07-09T21:19:19.890Z",
+    "focus": []
   },
   "nodeMaps": [
     {
-      "url": "http://map.freifunk-rhein-neckar.de/"
+      "url": "http://map.freifunk-rhein-neckar.de/",
+      "technicalType": "ffmap"
     }
   ],
   "techDetails": {
-    "routing": ""
+    "firmware": {
+      "url": "http://fw.freifunk-rhein-neckar.de/",
+      "docs": "https://wiki.freifunk-rhein-neckar.de/doku.php/firmware:firmware_einrichten"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "manual"
+    ],
+    "legals": [
+      "splashpage",
+      "institutions"
+    ]
   },
-  "api": "0.3.0"
+  "api": "0.4.1"
 }
